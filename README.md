@@ -4,6 +4,16 @@
 
 RideSharer is a ride-sharing mobile application developed as part of Lyft's Mobile Engineering Virtual Training Program. The app implements a Map View that displays the users' location on the map after requesting the location permissions.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/Simulator Screenshot - iPhone 14 - 2023-09-15 at 18.03.04.png" alt="Asking user for location permission" />Asking user for location permission</td>
+    <td align="center"><img src="screenshots/Simulator Screenshot - iPhone 14 - 2023-09-15 at 18.03.18.png" alt="User location displayed" />User location displayed</td>
+    <td align="center"><img src="screenshots/Simulator Screenshot - iPhone 14 - 2023-09-15 at 18.03.59.png" alt="Location permission denied" />Location permission denied</td>
+  </tr>
+</table>
+
 ## Technologies Used
 
 - Swift: The primary programming language for iOS app development.
@@ -22,8 +32,6 @@ RideSharer offers the following key features:
 
 3. **Location Permissions**: RideSharer requests location permissions and gracefully handles user responses, ensuring an optimal user experience.
 
-
 ## Acknowledgments
 
 I would like to express my gratitude to Lyft's Mobile Engineering Virtual Training Program for providing the opportunity to develop this project and gain valuable experience in iOS app development.
-
